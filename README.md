@@ -21,8 +21,7 @@ NASA and the Space Weather Prediction Center operate a number of measuring satel
 
 ## 2. **File Structure**
 
-![Screenshot 2024-11-19 at 6 25 55 PM](https://github.com/user-attachments/assets/83360cb1-9dd1-4b65-88a7-c6a8ecea49da)
-
+![Repo Image](<Screenshot 2024-11-22 at 5.24.21 PM-1.png>)
 
 ## 3. **How to run the notebook**
 
